@@ -1,4 +1,4 @@
-package com.eadp.pos.systen;
+package com.eadp.pos.system;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

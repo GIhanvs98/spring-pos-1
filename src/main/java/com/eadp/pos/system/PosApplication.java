@@ -1,4 +1,4 @@
-package com.eadp.pos.systen;
+package com.eadp.pos.system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
